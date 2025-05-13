@@ -488,11 +488,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\Docencia\\HerramientasIII\\20251\\Proyectos\\jsonPlaceholderWebApiDotnet\\demoWebApi\\demoWebApi.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\Docencia\\HerramientasIII\\20251\\Proyectos\\jsonPlaceholderWebApiDotnet\\dotnet-webapi-demo\\demoWebApi\\demoWebApi.csproj",
       "projectName": "demoWebApi",
-      "projectPath": "C:\\Users\\Usuario\\Documents\\Docencia\\HerramientasIII\\20251\\Proyectos\\jsonPlaceholderWebApiDotnet\\demoWebApi\\demoWebApi.csproj",
+      "projectPath": "C:\\Users\\Usuario\\Documents\\Docencia\\HerramientasIII\\20251\\Proyectos\\jsonPlaceholderWebApiDotnet\\dotnet-webapi-demo\\demoWebApi\\demoWebApi.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Documents\\Docencia\\HerramientasIII\\20251\\Proyectos\\jsonPlaceholderWebApiDotnet\\demoWebApi\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Documents\\Docencia\\HerramientasIII\\20251\\Proyectos\\jsonPlaceholderWebApiDotnet\\dotnet-webapi-demo\\demoWebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
