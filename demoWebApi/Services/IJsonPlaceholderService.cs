@@ -1,5 +1,10 @@
 
-public interface IJsonPlaceholderService 
+using demoWebApi.Models;
+namespace demoWebApi.Services
 {
-  Task<IEnumerable<Post>> GetPostsAsync();
+  public interface IJsonPlaceholderService 
+  {
+    Task<IEnumerable<Post>> GetPostsAsync();
+  }
+
 }
